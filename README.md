@@ -41,15 +41,6 @@ Meu nome é João Ribeiro, tenho 22 anos e sou natural de São José do Rio Pret
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="dotnet" 
-    title="dotnet"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg"
-/>
-
 <br/>
 <br/>
 
