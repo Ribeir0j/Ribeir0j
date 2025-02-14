@@ -1,6 +1,6 @@
 # João Ribeiro
 
-Meu nome é João Ribeiro, tenho 22 anos e sou natural de São José do Rio Preto e me formei no ano de 2024 em análise e desenvolvimento de sistemas na Universidade Paulista (UNIP)
+Meu nome é João Ribeiro, tenho 22 anos e sou natural de São José do Rio Preto. Me formei no ano de 2024 em análise e desenvolvimento de sistemas na Universidade Paulista (UNIP)
 
 ---
 
